@@ -12,7 +12,7 @@ GChat is a **real-time group chatting application** built with **Socket.IO** for
 - **Database storage** with MongoDB
 
 ## 🌐 Technologies Used
-- **Frontend:** React.js / Vue.js / HTML, CSS, JavaScript
+- **Frontend:** React.js, Daisy UI, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **WebSockets:** Socket.IO
